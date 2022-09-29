@@ -1,9 +1,0 @@
-*el java.util.arrays.equals().
-es para comparar el contenido de arrays retornando un boolean cómo respuesta.
-*el método Arrays.deepToString convierte el array multidimensional en String, y para unidimensional se usa el .toString.
-*Arrays.fill() ingresa, o modifica el valor de un dato de un array. especificando la posición del array.ej:
-Arrays.fill(myarray, 1(desde este índice), 5(hasta este índice),10(valor modificador);
- si no especifico ninguna posición el valor que puse en el método se aplica a todos los elementos del array.
-ejemplo:
-Arrays.fill(myarray, 10)(solo 2 parámetros.)
-
