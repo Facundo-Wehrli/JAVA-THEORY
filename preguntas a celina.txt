@@ -1,5 +1,0 @@
-cómo se declara usualmente un array?
-así: 
-int[] nombre-array;
-o asì: 
-int nombre-array[];
